@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👨‍💻 Sobre mim
 
-<!--
-**JoaoVitor0077/JoaoVitor0077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é João Vitor e estou em processo de formação em **Análise e Desenvolvimento de Sistemas**. Tenho um grande interesse na área de **desenvolvimento de software**, especialmente no desenvolvimento web.
 
-Here are some ideas to get you started:
+Atualmente estou me dedicando aos estudos de **Desenvolvimento Web com TypeScript, Node.js e Express**, buscando aprofundar meus conhecimentos e desenvolver projetos práticos que me desafiem e me ajudem a crescer profissionalmente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+### 💻 Linguagens de Programação
+- TypeScript
+- C#
+- Python
+- SQL
+
+### 🧰 Frameworks e Bibliotecas
+- Node.js
+- Express
+- ASP.NET
+- Selenium WebDriver
+
+### 📚 Conhecimentos
+- APIs REST
+- Programação Orientada a Objetos (POO)
+- Automação de tarefas
+
+---
+
+## 🌱 Em Aprendizado
+- Desenvolvimento Web com TypeScript, Node.js e Express
+
+
+## 📈 GitHub Stats
+
+![JoaoVitor0077's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoVitor0077&show_icons=true&theme=shadow_red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor0077&layout=compact&theme=shadow_red)
+
+---
+
+## 📫 Contatos
+Sinta-se à vontade para me chamar para colaborar em projetos ou trocar ideias!  
+[LinkedIn](www.linkedin.com/in/joao-vitor-066508241) | [Email](joao.leite2035@gmail.com)
+
