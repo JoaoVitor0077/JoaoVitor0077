@@ -1,13 +1,13 @@
 # Sobre mim
 
-Olá! Meu nome é João Vitor e estou em processo de formação em **Análise e Desenvolvimento de Sistemas**. Tenho um grande interesse na área de **desenvolvimento de software**, especialmente no desenvolvimento web.
+Olá! Meu nome é João Vitor e estou em processo de formação em **Análise e Desenvolvimento de Sistemas**. Tenho grande interesse na área de **desenvolvimento de software**, especialmente no desenvolvimento back-end.
 
-Atualmente estou me dedicando aos estudos de **Desenvolvimento Web com TypeScript, Node.js e Express**, buscando aprofundar meus conhecimentos e desenvolver projetos práticos que me desafiem e me ajudem a crescer profissionalmente.
+Atualmente estou buscando aprofundar meus conhecimentos e desenvolver projetos práticos que me ajudem a desenvolver cada vez mais minhas habilidades.
 
 
 ## Em Aprendizado
 
-- Desenvolvimento Web com TypeScript, Node.js e Express
+- Desenvolvimento Web com framework ASP.NET 
   
 ---
 
