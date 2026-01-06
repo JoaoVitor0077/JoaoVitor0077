@@ -7,7 +7,7 @@ Atualmente estou buscando aprofundar meus conhecimentos e desenvolver projetos p
 
 ## Em Aprendizado
 
-- Desenvolvimento Web com framework ASP.NET 
+- Desenvolvimento Fullstack com ASP.NET 
   
 ---
 
