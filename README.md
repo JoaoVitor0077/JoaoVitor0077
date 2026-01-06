@@ -16,7 +16,7 @@ Atualmente estou buscando aprofundar meus conhecimentos e desenvolver projetos p
 - APIs REST
 - Programação Orientada a Objetos (POO)
 - Automação de Tarefas
-- Desenvolvimento back-end
+- Desenvolvimento Fullstack
 ---
 
 ## Tecnologias e Ferramentas
