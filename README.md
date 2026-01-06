@@ -30,15 +30,6 @@ Atualmente estou buscando aprofundar meus conhecimentos e desenvolver projetos p
   <img align="center" alt="Joao-AspNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
 </div>
 
----
-
-## GitHub Stats
-
-![JoaoVitor0077's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoVitor0077&show_icons=true&theme=shadow_red)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor0077&layout=compact&theme=shadow_red)
-
----
-
 ## Contato
 
 <div>
