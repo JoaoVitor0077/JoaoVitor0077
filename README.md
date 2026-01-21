@@ -2,7 +2,7 @@
 
 Olá! Meu nome é João Vitor e estou em processo de formação em **Análise e Desenvolvimento de Sistemas**. Tenho grande interesse na área de **desenvolvimento de software**.
 
-Atualmente estou buscando aprofundar meus conhecimentos e desenvolver projetos práticos que me ajudem a melhorar cada vez mais minhas habilidades.
+Busco aprofundar meus conhecimentos e desenvolver projetos práticos que me ajudem a melhorar cada vez mais minhas habilidades.
 
 
 ## Em Aprendizado
